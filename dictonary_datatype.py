@@ -5,4 +5,6 @@
 # print(d[(1,2,3,4,5)])
 d={"Name":"Muneer","Age":33}
 # print(d["Age"])
-print(dir(d))
+# print(dir(d))
+print(d.keys())
+print(d.values())
