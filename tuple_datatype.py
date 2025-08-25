@@ -7,4 +7,4 @@ t =(1, 2, 3, 4, True, False, [4, 5, 6, 7])
 
 # tuple is an immutable datatype
 # print(dir(t))
-print(t.index(True))
+print(t.index(4))
