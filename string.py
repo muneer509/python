@@ -3,6 +3,6 @@
 # # print(l[2])
 # # l.extend[6, 7, 8, 9, False]
 # # print(l)
-l =[2, 3, 1, 'a']
+l =[2, 3, 1, 5, 4, 8]
 l.sort()
 print(l)
