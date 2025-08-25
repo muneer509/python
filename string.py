@@ -11,3 +11,6 @@
 # print(l1)
 # print(l)
 # txt = "Hello,"
+l = [10, 20, 30, 30, 50]
+l[0]=50
+print(l)
