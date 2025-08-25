@@ -10,5 +10,5 @@
 # print(t.index(4))
 # print(t.count)
 t=(1,2)
-t1, t2 =t1
+t1, t2 =t
 print(t1, t2)
