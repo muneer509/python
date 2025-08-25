@@ -4,5 +4,9 @@
 # # l.extend[6, 7, 8, 9, False]
 # # print(l)
 l =[2, 3, 1, 5, 4, 8]
-l.sort()
+# l.sort()
+# print(l)
+
+l1 = sorted(l)
+print(l1)
 print(l)
