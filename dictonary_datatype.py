@@ -8,3 +8,4 @@ d={"Name":"Muneer","Age":33}
 # print(dir(d))
 print(d.keys())
 print(d.values())
+print(d.items())
