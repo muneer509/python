@@ -6,4 +6,5 @@ t =(1, 2, 3, 4, True, False, [4, 5, 6, 7])
 # print(t)
 
 # tuple is an immutable datatype
-print(dir(t))
+# print(dir(t))
+print(l[False].index)
