@@ -8,4 +8,7 @@ t =(1, 2, 3, 4, True, False, [4, 5, 6, 7])
 # tuple is an immutable datatype
 # print(dir(t))
 # print(t.index(4))
-print(t.count)
+# print(t.count)
+t=(1,2)
+t1, t2 =t1
+print(t1, t2)
