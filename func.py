@@ -12,4 +12,4 @@
 
 def func():
     return
-print(func)
+print(func())
