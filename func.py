@@ -1,4 +1,4 @@
-add_func(a, b):
+def add_func(a, b):
 res= a + b
 print(res)
 print(f"a: {a}, b: {b}")
