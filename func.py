@@ -10,6 +10,6 @@
 # add = func(5, 8)
 # print(add + 10)
 
-def func():
+def func("Muneer"):
     return
 print(func())
